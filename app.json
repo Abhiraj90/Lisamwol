@@ -1,6 +1,6 @@
 {
-    "name": "Zaramwol",
-    "description": "Zara bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "name": "Lisamowl",
+    "description": "Lisa bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "https://i.ibb.co/9rrnJ7g/20210815-080839.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/Jokerser-x-Raashii/Zaramwol",
@@ -8,7 +8,7 @@
     "success_url": "under maintenance",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "LISA_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
         },
@@ -214,7 +214,7 @@
             "value": "https://i.hizliresim.com/loUtAb.jpg"
         },
         "TAG_REPLY": {
-            "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net - for india",
+            "description": "Enter jid of your number so that you get a audio reply when metioned example - 91xxxxxxxxxx@s.whatsapp.net  - for india",
             "required": false          
         },
         "NO_ONLINE": {
