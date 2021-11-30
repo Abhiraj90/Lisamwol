@@ -8,7 +8,7 @@ src="abhimon.jpeg" alt="GIF" width="220" height="190"/>
 
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/Raashii">Raashii</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/Abhiraj90">Abhiraj</a>
     <br>
        | © |
         Reserved 
@@ -22,7 +22,7 @@ src="abhimon.jpeg" alt="GIF" width="220" height="190"/>
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=15&lines=We+Cloned+A+Base+Added+Some+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+Service)](https://git.io/typing-svg)
 <p align="center">
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@abhiraj90/Lisamwol-Qr)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3G36is6)
     
@@ -67,9 +67,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![Raashii](https://github.com/Lisamowl.png?size=100)](https://github.com/Lisamowl) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![abhiraj90](https://github.com/Lisamowl.png?size=100)](https://github.com/Lisamowl) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
-[Raashii](https://github.com/Raashii)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
+[abhiraj90](https://github.com/abhiraj90)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
   </div>
 
