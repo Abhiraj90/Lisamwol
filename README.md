@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-src="abhimon.jpeg " alt="img" width="220" height="190"/>
+src="20211201_071121.jpg" alt="img" width="220" height="190"/>
 </p>
         <img 
 src="abhimon.jpeg" alt="GIF" width="220" height="190"/>
@@ -67,7 +67,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![abhiraj90](https://github.com/Lisamowl.png?size=100)](https://github.com/Lisamowl) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![abhiraj90](20211201_071121.jpg?size=100)](https://github.com/Lisamowl) |  [![Jokerser](https://github.com/j0kerser.png?size=100)](https://github.com/j0kerser) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [abhiraj90](https://github.com/abhiraj90)  | [Jokerser](https://github.com/j0kerser) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
