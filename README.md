@@ -5,7 +5,12 @@ src="20211201_071121.jpg" alt="img" width="220" height="190"/>
 
 <a href="#"><img title="LISAMOWL" src="https://img.shields.io/badge/-LISA%20Mowl v1.0-read?&style=for-the-badge"></a>
 </p>
-        <img 
+
+[![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FOWk754lALuKVldJ4LL4tS)
+  <div align="center">
+
+
+ <img 
 src="abhimon.jpeg" alt="GIF" width="220" height="190"/>
 </p>
 
