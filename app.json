@@ -1,4 +1,4 @@
- {
+{
     "name": "Abhiraj",
     "description": "Abhi bot - re-edited from asena. World’s first UserBot made for WhatsApp.",
     "logo": "abhimon.jpeg",
@@ -234,4 +234,4 @@
     "buildpacks": [{
       "url": "heroku-community/apt"
       }]
-  }
+ }
