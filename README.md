@@ -22,7 +22,7 @@ src="abhimon.jpeg" alt="GIF" width="220" height="190"/>
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=san+serif&color=%23F786EB&size=15&lines=We+Cloned+A+Base+Added+Some+Scripts;Now+U+Can+Deploy+Ur+Self%2C+Enjoy+The+Service)](https://git.io/typing-svg)
 <p align="center">
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@abhiraj90/Lisamwol-Qr)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Raashii/ZaraMwol-Qr)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3G36is6)
     
