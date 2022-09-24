@@ -1,9 +1,9 @@
 <div align="center">
 <img 
-src="20211201_071121.jpg" alt="img" width="220" height="190"/>
+src="20220924_145659.jpg" alt="img" width="220" height="190"/>
 </p>
 
-<a href="#"><img title="LISAMOWL" src="https://img.shields.io/badge/-LISA%20Mowl v1.0-read?&style=for-the-badge"></a>
+<a href="#"><img title="LISA MOWL" src="https://img.shields.io/badge/-LISA%20Mowl v1.0-read?&style=for-the-badge"></a>
 </p>
 
 [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/FOWk754lALuKVldJ4LL4tS)
