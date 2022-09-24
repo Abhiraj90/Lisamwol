@@ -1,6 +1,6 @@
 <div align="center">
 <img 
-src="20220924_145659.jpg" alt="img" width="220" height="190"/>
+src="20220924_150951.jpg" alt="img" width="220" height="190"/>
 </p>
 
 <a href="#"><img title="LISA MOWL" src="https://img.shields.io/badge/-LISA%20Mowl v1.0-read?&style=for-the-badge"></a>
